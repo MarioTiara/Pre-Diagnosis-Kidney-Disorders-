@@ -1,0 +1,1 @@
+./CNN/data/data_recognition/Kiri/ginjal/HasilKondisi.jpg
